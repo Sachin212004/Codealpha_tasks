@@ -4,4 +4,7 @@ TASK 1 : Language Translation Tool
 ![Image](https://github.com/user-attachments/assets/e854ab0b-1823-448c-80f0-8f0f90075332)
 
 TASK 2 :  Chatbot for FAQs  
+
+![Image](https://github.com/user-attachments/assets/218dc6b1-81ac-47aa-a652-ce2b25e427e6)
+
 TASK 4 : Object Detection and Tracking
