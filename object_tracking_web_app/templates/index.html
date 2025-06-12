@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Real-Time Object Tracking</title>
+    <style>
+        body {
+            background-color: #111;
+            color: white;
+            text-align: center;
+            padding-top: 30px;
+        }
+        button {
+            margin: 10px;
+            padding: 10px 20px;
+        }
+        img {
+            margin-top: 20px;
+            border: 2px solid white;
+        }
+    </style>
+</head>
+<body>
+    <h2>Real-Time Object Tracking</h2>
+    <button onclick="start()">Start</button>
+    <button onclick="stop()">Stop</button>
+    <br>
+    <img id="video" src="/video" width="640" height="480">
+    
+    <script>
+        function start() {
+            fetch('/start', { method: 'POST' });
+        }
+        function stop() {
+            fetch('/stop', { method: 'POST' });
+        }
+    </script>
+</body>
+</html>
