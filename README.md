@@ -7,4 +7,6 @@ TASK 2 :  Chatbot for FAQs
 
 ![Image](https://github.com/user-attachments/assets/218dc6b1-81ac-47aa-a652-ce2b25e427e6)
 
+![Image](https://github.com/user-attachments/assets/d7cda19e-e90e-495f-9200-aeab758ac7e5)
+
 TASK 4 : Object Detection and Tracking
